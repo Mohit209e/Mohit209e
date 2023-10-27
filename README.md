@@ -1,10 +1,11 @@
+![logo](https://github.com/Mohit209e/Mohit209e/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Mohit Bishnoi</h1>
 <h3 align="center">"I'm where data meets commerce: 📊 Data Analyst | 🔗 Retail & E-commerce Maverick | 🚀 Co-founder at a thriving E-commerce Startup. Dive in to see how I blend data with business!"</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 I’m currently working on **Donation Clothes Pickup Drivers Dashboard**
 
-- 🌱 I’m currently learning **Business Analytics**
+- 🌱 I’m currently focusing on **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/MOHIT](https://codebasics.io/portfolio/MOHIT)
 
